@@ -1,4 +1,21 @@
-# Applied-Data-Science-Capstone-IBM-Course-10-of-12-
-This repository is created for the Applied Data Science Capstone (IBM Course 10 of 12) Project
+This repository contains hands-on projects completed as part of the
+IBM Data Science Professional Certificate (Coursera).
 
-This contains the ungraded app items from Modules 1 to 4 which includes notebooks, CSVs, python files and screenshots.
+## Topics Covered
+- Data Collection (APIs, Web Scraping)
+- Data Wrangling and Cleaning
+- Exploratory Data Analysis (EDA)
+- SQL with SQLite
+- Data Visualization (Matplotlib, Folium)
+- Machine Learning (Classification & Prediction)
+
+## Tools & Technologies
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn, Folium
+- SQL (SQLite)
+- Scikit-learn
+- Jupyter Notebook
+
+These notebooks demonstrate end-to-end data science workflows and were
+completed as part of coursework and applied projects.
